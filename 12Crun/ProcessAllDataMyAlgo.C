@@ -1,0 +1,16 @@
+.x RunAlgorithm.C+("Water","210MeV");
+.x RunAlgorithm.C+("Water","475MeV");
+.x RunAlgorithm.C+("Water","2000MeV");
+.x RunAlgorithm.C+("WbLSp4Pc","210MeV");
+.x RunAlgorithm.C+("WbLSp4Pc","475MeV");
+.x RunAlgorithm.C+("WbLSp4Pc","2000MeV");
+.x RunAlgorithm.C+("WbLS1Pc","210MeV");
+.x RunAlgorithm.C+("WbLS1Pc","475MeV");
+.x RunAlgorithm.C+("WbLS1Pc","2000MeV");.
+.x RunAlgorithm.C+("LS","210MeV");
+.x RunAlgorithm.C+("LS","475MeV");
+.x RunAlgorithm.C+("LS","2000MeV");
+.x RunAlgorithm.C+("PMTCalib","H1");
+.x RunAlgorithm.C+("PMTCalib","H2");
+.x RunAlgorithm.C+("PMTCalib","T1H3");
+.x RunAlgorithm.C+("PMTCalib","T2");
